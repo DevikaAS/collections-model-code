@@ -48,4 +48,4 @@ def necessary_columns_LU(prev_month,fy_period):
     return monthend_closing_age_L_U_contracts
 
 closing_lu=necessary_columns_LU(prev_month,fy_period)
-closing_lu.to_csv('C:/Users/1000003613/Desktop/Data Collection model26Mar19/Automation/automate/month_end_closing_age_fetch/closing_age_L_U_contracts.csv' , index=False)
+#closing_lu.to_csv('C:/Users/1000003613/Desktop/Data Collection model26Mar19/Automation/automate/month_end_closing_age_fetch/closing_age_L_U_contracts.csv' , index=False)
